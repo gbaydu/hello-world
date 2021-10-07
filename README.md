@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+Whats up ya'll! 
+Excited to have joined such a great community.
